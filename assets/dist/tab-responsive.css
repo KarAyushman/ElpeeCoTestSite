@@ -1,0 +1,120 @@
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+ /* custom */
+  .tf-map {
+    margin-bottom: 24vh;
+  }
+
+  #map{
+    height: 300px;
+  }
+
+  .about.services-section {
+    padding-left: 2rem !important;
+    padding-right: 2rem !important;
+  }
+
+  .text-sm-center {
+    text-align: center;
+  }
+
+  .side-bar .widget .tags_cloud_inner a {
+    padding: 9px 16px;
+    margin-right: 8px;
+    margin-bottom: 8px;
+  }
+
+  #comments {
+    padding: 4rem 0;
+  }
+
+  .map-box {
+        position: absolute;
+    bottom: auto;
+    top: 70%;
+  }
+
+  .mobile-button.home3::before,
+  .mobile-button.home3::after,
+  .mobile-button.home3 span,
+  .style2 .mobile-button::before,
+  .style2 .mobile-button::after,
+  .style2 .mobile-button span {
+    background-color: #333;
+  }
+
+  /* .flat-best-attorneys .horizontal-scroll .wrapper-best {
+    width: 70vw;
+  } */
+
+  .slider.home2 .slider-item .overlay {
+    background: linear-gradient(359deg, rgb(251 251 251 / 90%) 40.9%, rgb(255 255 255 / 18%) 63.47%);
+  }
+
+  /* 
+  .flat-counter .counter-box .number {
+    font-size: 40px;
+  }
+
+  .flat-counter .counter-box h4 {
+    font-size: 16px;
+  } */
+
+  .slider.home.home2.tf-2 {
+    height: 100vh;
+  }
+
+  .slider.home2 .slider-item .content .heading h1 {
+    font-size: 40px;
+  }
+
+  .slider.home2 .slider-item .content {
+    width: 85vw;
+  }
+
+  .slider.home2 .slider-item .content .heading h4 {
+    font-size: 14px;
+  }
+
+  .heading-section .title-section,
+  .tf-title {
+    font-size: 35px;
+    margin-bottom: 0 !important;
+  }
+
+.services-section {
+    padding-top: 200px;
+    margin-top: -150px;
+}
+
+  .horizontal-scroll {
+    display: flex;
+    height: auto;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    flex-wrap: nowrap;
+    padding-bottom: 2rem;
+    justify-content: start !important;
+  }
+
+  .horizontal-scroll::-webkit-scrollbar {
+    display: none;
+  }
+
+  /* .hori-scroll-element .wrapper-icon,
+  .hori-scroll-element .blog-box {
+    width: 43vw;
+  } */
+
+  .testim-sec {
+    margin-bottom: -7rem;
+    margin-top: -11rem;
+  }
+
+  .flat-testimonials.home3 .testimonial-post {
+    margin: 1px 1rem;
+    padding: 2rem 2rem;
+  }
+
+  /* custom */
+}
