@@ -28,7 +28,7 @@
                     data-wow-duration="1400ms">
                     <!-- <h5 class="wow fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">Our Locations
                     </h5> -->
-                    <h2 class="title-section title-style">Check out our <span class="text-color-8">other offices </span></h2>
+                    <h2 class="title-section title-style">Check out our <span class="text-color-8">associate offices </span></h2>
                 </div>
             </div>
         </div>
