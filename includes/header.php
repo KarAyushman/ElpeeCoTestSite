@@ -239,9 +239,9 @@ else{
                                             <li class="menu-item menu-item-has-children <?php if (($base_name=="news-updates")||($base_name=="notices")||($base_name=="single-news")||($base_name=="single-notice")){echo ' current-menu-item';}?>">
                                                 <a href="javascript:void(0)">Media</a>
                                                 <ul class="sub-menu">
-                                                    <li class="menu-item <?php if (($base_name=="news-updates")){echo ' current-item';}?>"><a href="<?php echo $base_dir; ?>news-updates.php">News Updates</a>
+                                                    <li class="menu-item <?php if (($base_name=="news-updates")){echo ' current-item';}?>"><a href="<?php echo $base_dir; ?>news-updates.php">News Articles</a>
                                                     </li>
-                                                    <li class="menu-item <?php if (($base_name=="notices")){echo ' current-item';}?>"><a href="<?php echo $base_dir; ?>notices.php">Notices</a></li>
+                                                    <li class="menu-item <?php if (($base_name=="notices")){echo ' current-item';}?>"><a href="<?php echo $base_dir; ?>notices.php">Regulatory Updates</a></li>
                                                 </ul>
                                             </li>
                                             <li class="menu-item <?php if (($base_name=="offices")){echo ' current-menu-item';}?>">
