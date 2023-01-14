@@ -209,10 +209,9 @@
                     <!-- <h5 class="text-u text-color-1 wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
                         Founder</h5> -->
                     <h2 class="text-color-1 tf-title"> Lokanath P. Kar </h2>
-                    <p class="text-color-1 text-t pl-2">Mr. Kar is one of the eminent legal practitioners of the country in the insurance laws and industry policies. Having closely worked with the insurance industry since inception of liberalisation and privatisation of the sector, Mr. Kar has immensely contributed to the evolution of insurance as a popular financial product and the governing laws around it.</p>
-                    <p class="text-color-1 text-t pl-2">Apart from being an active contributor to the Industry Body, Mr. Kar has been a part of several regulatory committees recommending on governance of multiple products and practices of insurance to the Insurance Regulator. Besides, Mr, Kar is counted amongst those who drove the first few successful listings and joint ventures of the insurance industry.</p>
-                    <p class="text-color-1 text-t pl-2">Before nearly two decades of journey in the insurance sector, Mr. Kar had an equally successful stint in the financial services sector, both as a corporate lawyer and as a practicing advocate.</p>
-                    <img class="image-1 sign-img" src="assets/img/sign.png" alt="images">
+                    <p class="text-color-1 pl-2">Mr. Kar is one of the eminent legal practitioners of the country in the insurance laws and industry policies. Having closely worked with the insurance industry since inception of liberalisation and privatisation of the sector, Mr. Kar has immensely contributed to the evolution of insurance as a popular financial product and the governing laws around it.</p>
+                    <p class="text-color-1 pl-2">Apart from being an active contributor to the Industry Body, Mr. Kar has been a part of several regulatory committees recommending on governance of multiple products and practices of insurance to the Insurance Regulator. Besides, Mr, Kar is counted amongst those who drove the first few successful listings and joint ventures of the insurance industry.</p>
+                    <p class="text-color-1 pl-2">Before nearly two decades of journey in the insurance sector, Mr. Kar had an equally successful stint in the financial services sector, both as a corporate lawyer and as a practicing advocate.</p>
                 </div>
             </div>
         </div>
