@@ -467,14 +467,14 @@
     </div>
 </section>
 
-
+<!-- 
 <div class="container">
     <section class="flat-testimonials home3 testim-sec">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12">
                 <div class="heading-section center home3">
-                    <!-- <h5 class="wow fadeInUp text-color-1" data-wow-delay="200ms" data-wow-duration="1500ms">Our
-                        Testimonials</h5> -->
+                    <!- - <h5 class="wow fadeInUp text-color-1" data-wow-delay="200ms" data-wow-duration="1500ms">Our
+                        Testimonials</h5> - ->
                     <h2 class="title-section wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">What <span
                             class="text-color-1">Clients</span> Says?</h2>
                 </div>
@@ -484,10 +484,10 @@
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
                             <div class="testimonial-post center">
-                                <!-- <div class="box-img">                         
+                                <!- - <div class="box-img">                         
                                                 <img class="img-user" src="assets/images/box-item/testimonial-1.jpg" alt="img" >  
                                                 <img class="mark-img absolute" src="assets/images/mark/mark-testimonials.png" alt="img" >                      
-                                            </div>               -->
+                                            </div>               - ->
                                 <div class="content">
                                     <div class="text-testi fw-3 text-color-2">Lorem ipsum dolor sit amet consectetur,
                                         adipisicing elit. Reiciendis quisquam dicta enim blanditiis provident,
@@ -501,7 +501,7 @@
                                             <i class="fas fa-star"></i>
                                             <i class="fas fa-star"></i>
                                         </span>
-                                        <!-- <h4 class="fw-4 text-color-1">12 April, 2022</h4> -->
+                                        <!- - <h4 class="fw-4 text-color-1">12 April, 2022</h4> - ->
                                     </div>
                                     <h3 class="fw-7">Bardem Smith</h3>
                                 </div>
@@ -509,10 +509,10 @@
                         </div>
                         <div class="swiper-slide">
                             <div class="testimonial-post center">
-                                <!-- <div class="box-img">                         
+                                <!- - <div class="box-img">                         
                                                 <img class="img-user" src="assets/images/box-item/testimonial-2.jpg" alt="img" >  
                                                 <img class="mark-img absolute" src="assets/images/mark/mark-testimonials.png" alt="img" >                      
-                                            </div>               -->
+                                            </div>               - ->
                                 <div class="content">
                                     <div class="text-testi fw-3 text-color-2">Lorem ipsum dolor sit amet consectetur,
                                         adipisicing elit. Reiciendis quisquam dicta enim blanditiis provident,
@@ -527,7 +527,7 @@
                                             <i class="fas fa-star"></i>
                                             <i class="fas fa-star"></i>
                                         </span>
-                                        <!-- <h4 class="fw-4 text-color-1">12 April, 2022</h4> -->
+                                        <!- - <h4 class="fw-4 text-color-1">12 April, 2022</h4> - ->
                                     </div>
                                     <h3 class="fw-7">Evelyn Sophia</h3>
                                 </div>
@@ -535,10 +535,10 @@
                         </div>
                         <div class="swiper-slide">
                             <div class="testimonial-post center">
-                                <!-- <div class="box-img">                         
+                                <!- - <div class="box-img">                         
                                                 <img class="img-user" src="assets/images/box-item/testimonial-3.jpg" alt="img" >  
                                                 <img class="mark-img absolute" src="assets/images/mark/mark-testimonials.png" alt="img" >                      
-                                            </div>               -->
+                                            </div>               - ->
                                 <div class="content">
                                     <div class="text-testi fw-3 text-color-2">Lorem ipsum dolor sit amet consectetur,
                                         adipisicing elit. Reiciendis quisquam dicta enim blanditiis provident,
@@ -552,7 +552,7 @@
                                             <i class="fas fa-star"></i>
                                             <i class="fas fa-star"></i>
                                         </span>
-                                        <!-- <h4 class="fw-4 text-color-1">12 April, 2022</h4> -->
+                                        <!- - <h4 class="fw-4 text-color-1">12 April, 2022</h4> - ->
                                     </div>
                                     <h3 class="fw-7">Matilda Sophie</h3>
                                 </div>
@@ -560,10 +560,10 @@
                         </div>
                         <div class="swiper-slide">
                             <div class="testimonial-post center">
-                                <!-- <div class="box-img">                         
+                                <!- - <div class="box-img">                         
                                                 <img class="img-user" src="assets/images/box-item/testimonial-3.jpg" alt="img" >  
                                                 <img class="mark-img absolute" src="assets/images/mark/mark-testimonials.png" alt="img" >                      
-                                            </div>               -->
+                                            </div>               - ->
                                 <div class="content">
                                     <div class="text-testi fw-3 text-color-2">Lorem ipsum dolor sit amet consectetur,
                                         adipisicing elit. Reiciendis quisquam dicta enim blanditiis provident,
@@ -577,7 +577,7 @@
                                             <i class="fas fa-star"></i>
                                             <i class="fas fa-star"></i>
                                         </span>
-                                        <!-- <h4 class="fw-4 text-color-1">12 April, 2022</h4> -->
+                                        <!- - <h4 class="fw-4 text-color-1">12 April, 2022</h4> - ->
                                     </div>
                                     <h3 class="fw-7">Matilda Sophie</h3>
                                 </div>
@@ -589,7 +589,7 @@
             </div>
         </div>
     </section>
-</div>
+</div> -->
 
 <!-- <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script> -->
 <!-- on load popup -->
