@@ -2,10 +2,10 @@
 	//require_once('includes/access.php');
 require_once('connect.php');
 
-define('base_dir','http://127.0.0.1:8000/');
-define('image_base_dir','http://127.0.0.1:8000/'); 
-// define('base_dir','https://elpeeco2023.azurewebsites.net/');
-// define('image_base_dir','https://elpeeco2023.azurewebsites.net/');
+// define('base_dir','http://127.0.0.1:8000/');
+// define('image_base_dir','http://127.0.0.1:8000/'); 
+define('base_dir','https://elpeeco2023.azurewebsites.net/');
+define('image_base_dir','https://elpeeco2023.azurewebsites.net/');
 
 // echo constant('base_dir');
 
