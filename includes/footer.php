@@ -49,7 +49,7 @@
                                 <img id="logo_footer" src="assets/img/logo/elpeecologoclr.png" alt="img">
                             </a>
                         </div>
-                        <p class="sub-widget-logo">Lorem ipsum dolor sit amet consectetur, adipisicing elit. </p>
+                        <p class="sub-widget-logo"></p>
                         <h6 class="fw-4 text-color-2">Copyright © 2022
                         </h6>
                     </div>
@@ -87,11 +87,7 @@
                             Complex, Bandra (East), Mumbai – 400 051</p>
                         <p class="fw-4 mb-3 text-color-8">
                             <i class="fa fa-phone-alt mr-3" aria-hidden="true"></i>
-                            <a href="tel:91 22 3596 3945" class="text-color-8"> +(91- 22) 3596 3945</a> </p>
-                        <p class="fw-4 mb-3 text-color-8">
-                            <i class="fa fa-phone-alt mr-3" aria-hidden="true"></i>
-                            <a href="tel:91 98336 38448" class="text-color-8"> +(91) 98336 38448</a> </p>
-                        <!-- +(91-22)3596 3945; +(91) 98336 38448 -->
+                            <a href="tel:91 22 6666 3353" class="text-color-8"> +(91- 22) 6666 3353/54</a> </p>
                         <p class="fw-4 text-color-8">
                             <i class="fa fa-envelope mr-3" aria-hidden="true"></i>
                             <a href="mailto:lokanath.kar@elpee.co.in" class="text-color-8">
