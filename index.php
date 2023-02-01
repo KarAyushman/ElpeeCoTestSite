@@ -34,7 +34,7 @@
                         <div class="container">
                             <div class="content">
                                 <div class="heading">
-                                    <h1> Corporate Legal <br> Solutions</h1>
+                                    <h1> Corporate <br> Solutions</h1>
                                 </div>
                                 <div class="flat-bt-slider">
                                     <div class="sc-btn-top">
