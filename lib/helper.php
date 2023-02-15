@@ -3,6 +3,7 @@
 require_once('connect.php');
 
 // Changed this line
+
 // define('base_dir','http://127.0.0.1:8000/');
 // define('image_base_dir','http://127.0.0.1:8000/'); 
 define('base_dir','https://elpeeco2023.azurewebsites.net/');
